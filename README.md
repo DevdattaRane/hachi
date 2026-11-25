@@ -61,6 +61,8 @@ agent's behaviour without supervision**. Hachi is built to make both structurall
 Requires Python 3.11+ and [uv](https://docs.astral.sh/uv/). No API key is needed to develop or to
 run the test suite.
 
+For development setup, testing, and contribution guidelines, see [CONTRIBUTING.md](CONTRIBUTING.md).
+
 ```bash
 git clone https://github.com/OpenGigantic/hachi && cd hachi
 uv sync
